@@ -110,4 +110,4 @@ echo '<br>';
 $otsi = array('lehm', 'saba', 'taga');
 $asenda = array('koer', 'sarv', 'ees');
 echo str_replace($otsi, $asenda, $tekst);
-echo '<hr>';
+echo '<hr>'
